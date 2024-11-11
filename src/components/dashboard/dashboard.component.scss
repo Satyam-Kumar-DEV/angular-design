@@ -99,12 +99,7 @@
 }
 
 .card-img-overlay {
-  background: rgba(
-    0,
-    0,
-    0,
-    0.4
-  ); /* Optional overlay to enhance text visibility */
+  background: rgba(0, 0, 0, 0.4);
 }
 
 .overlay-text {
@@ -339,7 +334,7 @@
       font-size: 14px;
       font-style: normal;
       font-weight: 700;
-      line-height: 20px; /* 142.857% */
+      line-height: 20px;
       margin-bottom: 30px;
     }
   }
